@@ -1,4 +1,5 @@
 \# 🏥 Hospital Emergency Room Dashboard
+![Hospital Dashboard Screenshot](dashboard.png)
 ## 📊 Interactive Dashboard
 
 Explore the interactive Tableau dashboard for this project:
