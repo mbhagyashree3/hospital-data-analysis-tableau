@@ -1,4 +1,9 @@
 \# 🏥 Hospital Emergency Room Dashboard
+## 📊 Interactive Dashboard
+
+Explore the interactive Tableau dashboard for this project:
+
+[View Hospital Dashboard](https://public.tableau.com/views/hospital_dashboard_17752173336120/finalDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
